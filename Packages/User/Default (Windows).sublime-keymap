@@ -1,0 +1,18 @@
+[
+  {
+    "keys": ["super+shift+r"], "command": "browser_refresh", "args": {
+      "auto_save": true,
+      "delay": 0.0,
+      "activate": false,
+      "browsers" : ["chrome"]
+    }
+  },
+
+{ "keys": ["ctrl+shift+'"], 
+"command": "change_quotes" },
+
+
+{ "keys": ["ctrl+alt+t"], "command": "open_terminal" },
+{ "keys": ["ctrl+shift+alt+t"], "command": "open_terminal_project_folder" }
+
+]

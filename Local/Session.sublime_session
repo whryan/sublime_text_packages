@@ -1,0 +1,1198 @@
+{
+	"folder_history":
+	[
+		"/C/Users/William/Documents/Berkeley_Post-Bac/Anne_Collins_Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk",
+		"/C/Users/William/Documents/Phaser Projects/game-jam-txgiving-2017/faces_n_places_master/faces_n_places",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk",
+		"/C/Users/William/Documents/Phaser Projects/game-jam-txgiving-2017/phaser-ce",
+		"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples",
+		"/C/Users/William/Documents/Phaser Projects/Art Assets/kenney",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Haas Research/Ellen Lab/Kristin Project/example_experiment",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor2/rlwmpst_refactor",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Aliens task/TaskSets",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new_recovered",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example_extended",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/ccn_example",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/ccn_example",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/tutorial-experiment - Copy",
+		"/C/Users/William/Documents/Berkeley Post-Bac/rlwmpst_current",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/tutorial-experiment",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_original",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/rlwmpst_amt",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/chatroom",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/jatos-3.1.7_win_java/study_assets_root/go-nogo-homemade",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Experiments/tutorial-experiment",
+		"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Experiments/hello-world-experiment"
+	],
+	"last_version": 3143,
+	"last_window_id": 65,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1105.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"key",
+						"key"
+					],
+					[
+						"train",
+						"train_keys"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"set_size",
+						"set_size_options"
+					],
+					[
+						"set",
+						"set_size_options"
+					],
+					[
+						"train_tim",
+						"train_timeout_feedback_txt"
+					],
+					[
+						"train_",
+						"train_block_instructs"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"stimuli_",
+						"stimuli_dict"
+					],
+					[
+						"stim",
+						"stimuli_list"
+					],
+					[
+						"corr",
+						"correct_key"
+					],
+					[
+						"reward_",
+						"reward_img_path"
+					],
+					[
+						"punish",
+						"punish_img"
+					],
+					[
+						"stimuli",
+						"stimuli"
+					],
+					[
+						"test_p",
+						"test_presentation"
+					],
+					[
+						"jpg",
+						"jpg"
+					],
+					[
+						"merfe",
+						"merge_df"
+					],
+					[
+						"conca",
+						"concat_and_key"
+					],
+					[
+						"Key",
+						"key_concat_merge_cols"
+					],
+					[
+						"key_",
+						"key_concat_merge_cols"
+					],
+					[
+						"df",
+						"df_str_cols"
+					],
+					[
+						"clean_",
+						"clean_data_path_pre"
+					],
+					[
+						"mta",
+						"mta_key"
+					],
+					[
+						"raw",
+						"raw_data_path_pre"
+					],
+					[
+						"clean",
+						"clean_df"
+					],
+					[
+						"merge",
+						"merge_df"
+					],
+					[
+						"mer",
+						"merged_file_name"
+					],
+					[
+						"clea",
+						"clean_indiv_file_name_list"
+					],
+					[
+						"cle",
+						"clean_indiv_file_name_list"
+					],
+					[
+						"to",
+						"to_pickle"
+					],
+					[
+						"ur",
+						"url_suffixes"
+					],
+					[
+						"dt",
+						"datetime"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "remo",
+				"selected_items":
+				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"gitgutt",
+						"GitGutter: Support Info"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown exte",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Disable Package"
+					],
+					[
+						"pac",
+						"Package Control: Disable Package"
+					],
+					[
+						"packa",
+						"Package Control: Enable Package"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"packa ins",
+						"Package Control: Install Package"
+					],
+					[
+						"markdownpr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"syntax: pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"pyth",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"syntax: py",
+						"Set Syntax: Python"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/define_trial_data.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/custom_py_reference.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/create_train_block.js",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/todo.todo",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/create_experiment_intro.js",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/TODO",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/GhostText/GhostText.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/William/AppData/Local/Temp/23.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/jspsych-5.0.3/jspsych.js",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/ChangeQuotes/ChangeQuotes.sublime-settings",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/jspsych-5.0.3/css/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/css/custom.css",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+				"/C/Program Files/ImageMagick-7.0.7-Q16/index.html",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/platformer basics.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/motion lock horizontal.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/keyboard.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/time/basic timed event.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/vertical collision.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/embed.php",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/single bullet.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/text/update text.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/fire many.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/multiple bullets.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/bullet angle variance.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/multi angle to pointer.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/bounce.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/keyboard justpressed.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/down duration.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/key.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/keyboard hotkeys.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/button destroy.js",
+				"/C/Users/William/Documents/Phaser Projects/Art Assets/kenney/roguelike-pack/Spritesheet/spritesheetInfo.txt",
+				"/C/Users/William/Documents/Phaser Projects/game-jam-txgiving-2017/phaser-ce/resources/Project Templates/Webpack/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/jspsych-5.0.3/plugins/jspsych-categorize.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/Archive/rlwmpst/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/Archive/rlwmpst_new_recovered/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_old/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Haas Research/Ellen Lab/Kristin Project/Qualtrics.SurveyEngine.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Haas Research/Ellen Lab/Kristin Project/header_js.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/example_flanker_task.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Haas Research/Ellen Lab/Kristin Project/ccn_example/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/qualtrics_jspsych_header.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/question_code.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example_extended/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor2/rlwmpst_refactor/static/img/feedback/punish.png",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor2/rlwmpst_refactor/static/img/feedback/reward.png",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_old/templates/exp.html",
+				"/C/Users/William/Downloads/rlwmpst_refactor/rlwmpst_refactor/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/templates/exp.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_train_block.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_train_phase.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/define_trial_data.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_test_phase.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_example_train_block.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example_extended/static/ccn_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/custom_py_reference.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/jspsych-5.0.3/css/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/css/custom.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_experiment_end.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_experiment_intro.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/temp.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/ccn_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/ccn_plugins/define_trials.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/config.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/aws/CCN Lab Access Key/access keys.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new_recovered/config.txt",
+				"/C/Users/William/Documents/aws-mturk-clt/aws-mturk-clt-1.3.4/bin/mturk.properties",
+				"/C/Program Files (x86)/Steam/steamapps/common/Windward/run.bat",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example/jspsych-5.0.3/css/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/ccn_example/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/tutorial-experiment/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/tutorial-experiment/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/rlwmpst_current/participants.db",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/static/js/jspsych/plugins/jspsych-rlwmpst.js.bak",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/static/rlwmpst/v1/S_1/train.csv",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/static/rlwmpst/V6/S_1/test.csv",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/2017-09-18 -- Data for anne mtg/Recreate Analysis.ipynb",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Untitled Folder/Calculate worker bonus.ipynb",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_morning_sept14/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/templates/ad.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/config.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/convert_mat.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/static/js/jspsych/plugins/jspsych-rlwmpst.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/rlwmpst_amt/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/rlwmpst_amt/config.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/test data/trial_data.csv",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/EEG Cleaning/Sarah's EEG Labs/eeglab13_6_5b/1ST_README.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/rlwmpst_amt/_gitignore.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/chatroom/templates/questionnaire.html",
+				"/C/Users/William/AppData/Local/Temp/Temp1_chatroom.zip/chatroom/experiment.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/jatos-3.1.7_win_java/study_assets_root/go-nogo-homemade/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/templates/complete.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/templates/default.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/keep_assigning_hits.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/config.txt",
+				"/C/Users/William/Downloads/jatos-3.1.7_win_java/jatos-3.1.7_win_java/README.md",
+				"/C/Users/William/Documents/K2 Data Science/gitignore-base/README.md",
+				"/C/Users/William/Documents/K2 Data Science/U8-EDA/Projects/MTA-Survey-Small/src/data/create_clean_data.py",
+				"/C/Users/William/Documents/CSGO/rar_dl.py",
+				"/C/Users/William/Documents/CSGO/demo-data/match730_003192214909240738157_0718885624_156.dem.json",
+				"/C/Users/William/Documents/match730_003192574833942593884_0235882743_153.dem.json",
+				"/C/Users/William/Documents/CSGO/dl_one_file.py",
+				"/C/Users/William/Documents/Pelican-Blog/pelican-blog/content/First-Post.ipynb",
+				"/C/Users/William/Documents/Pelican-Blog/pelican-blog/publishconf.py",
+				"/C/Users/William/Documents/Pelican-Blog/pelican-blog/pelicanconf.py"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"icon_fac",
+					"kill",
+					"small",
+					"{src}",
+					"'",
+					"directory",
+					"thank you",
+					"get_ready",
+					"\\"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 30.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"addDataToLastTrial"
+					]
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 300.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1071.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"key",
+						"key"
+					],
+					[
+						"train",
+						"train_keys"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"set_size",
+						"set_size_options"
+					],
+					[
+						"set",
+						"set_size_options"
+					],
+					[
+						"train_tim",
+						"train_timeout_feedback_txt"
+					],
+					[
+						"train_",
+						"train_block_instructs"
+					],
+					[
+						"array",
+						"array"
+					],
+					[
+						"stimuli_",
+						"stimuli_dict"
+					],
+					[
+						"stim",
+						"stimuli_list"
+					],
+					[
+						"corr",
+						"correct_key"
+					],
+					[
+						"reward_",
+						"reward_img_path"
+					],
+					[
+						"punish",
+						"punish_img"
+					],
+					[
+						"stimuli",
+						"stimuli"
+					],
+					[
+						"test_p",
+						"test_presentation"
+					],
+					[
+						"jpg",
+						"jpg"
+					],
+					[
+						"merfe",
+						"merge_df"
+					],
+					[
+						"conca",
+						"concat_and_key"
+					],
+					[
+						"Key",
+						"key_concat_merge_cols"
+					],
+					[
+						"key_",
+						"key_concat_merge_cols"
+					],
+					[
+						"df",
+						"df_str_cols"
+					],
+					[
+						"clean_",
+						"clean_data_path_pre"
+					],
+					[
+						"mta",
+						"mta_key"
+					],
+					[
+						"raw",
+						"raw_data_path_pre"
+					],
+					[
+						"clean",
+						"clean_df"
+					],
+					[
+						"merge",
+						"merge_df"
+					],
+					[
+						"mer",
+						"merged_file_name"
+					],
+					[
+						"clea",
+						"clean_indiv_file_name_list"
+					],
+					[
+						"cle",
+						"clean_indiv_file_name_list"
+					],
+					[
+						"to",
+						"to_pickle"
+					],
+					[
+						"ur",
+						"url_suffixes"
+					],
+					[
+						"dt",
+						"datetime"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/William/Documents/Berkeley_Post-Bac/Anne_Collins_Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/experiment.html",
+					"settings":
+					{
+						"buffer_size": 3693,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "remo",
+				"selected_items":
+				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"gitgutt",
+						"GitGutter: Support Info"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown exte",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Disable Package"
+					],
+					[
+						"pac",
+						"Package Control: Disable Package"
+					],
+					[
+						"packa",
+						"Package Control: Enable Package"
+					],
+					[
+						"task",
+						"Tasks: New document"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"packa ins",
+						"Package Control: Install Package"
+					],
+					[
+						"markdownpr",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"syntax: pyt",
+						"Set Syntax: Python"
+					],
+					[
+						"pyth",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"syntax: py",
+						"Set Syntax: Python"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk"
+			],
+			"file_history":
+			[
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/define_trial_data.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/custom_py_reference.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/create_train_block.js",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/todo.todo",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/create_experiment_intro.js",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/TODO",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/GhostText/GhostText.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/William/AppData/Local/Temp/23.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/jspsych-5.0.3/jspsych.js",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/ChangeQuotes/ChangeQuotes.sublime-settings",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/jspsych-5.0.3/css/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/css/custom.css",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/William/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+				"/C/Program Files/ImageMagick-7.0.7-Q16/index.html",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/platformer basics.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/motion lock horizontal.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/keyboard.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/time/basic timed event.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/vertical collision.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/embed.php",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/single bullet.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/text/update text.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/fire many.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/multiple bullets.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/weapon/bullet angle variance.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/multi angle to pointer.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/arcade physics/bounce.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/keyboard justpressed.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/down duration.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/key.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/keyboard hotkeys.js",
+				"/C/Users/William/Documents/Phaser Projects/phaser examples/phaser-examples/examples/input/button destroy.js",
+				"/C/Users/William/Documents/Phaser Projects/Art Assets/kenney/roguelike-pack/Spritesheet/spritesheetInfo.txt",
+				"/C/Users/William/Documents/Phaser Projects/game-jam-txgiving-2017/phaser-ce/resources/Project Templates/Webpack/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/custom_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/static/jspsych-5.0.3/plugins/jspsych-categorize.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/Archive/rlwmpst/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/Archive/rlwmpst_new_recovered/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_old/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Haas Research/Ellen Lab/Kristin Project/Qualtrics.SurveyEngine.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Haas Research/Ellen Lab/Kristin Project/header_js.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/example_flanker_task.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Haas Research/Ellen Lab/Kristin Project/ccn_example/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/qualtrics_jspsych_header.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Qualtrics_Resources/question_code.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example_extended/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor2/rlwmpst_refactor/static/img/feedback/punish.png",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor2/rlwmpst_refactor/static/img/feedback/reward.png",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_old/templates/exp.html",
+				"/C/Users/William/Downloads/rlwmpst_refactor/rlwmpst_refactor/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/templates/exp.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_train_block.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_train_phase.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/define_trial_data.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_test_phase.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_example_train_block.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example_extended/static/ccn_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/custom_py_reference.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/jspsych-5.0.3/css/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/css/custom.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_experiment_end.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/create_experiment_intro.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/custom_plugins/temp.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/ccn_plugins/define_trial_stimuli.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor/static/ccn_plugins/define_trials.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/config.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/aws/CCN Lab Access Key/access keys.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new_recovered/config.txt",
+				"/C/Users/William/Documents/aws-mturk-clt/aws-mturk-clt-1.3.4/bin/mturk.properties",
+				"/C/Program Files (x86)/Steam/steamapps/common/Windward/run.bat",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/ccn_example/jspsych-5.0.3/css/jspsych.css",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/ccn_example/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/tutorial-experiment/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Archive/Experiments/tutorial-experiment/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/rlwmpst_current/participants.db",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/static/js/jspsych/plugins/jspsych-rlwmpst.js.bak",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/static/rlwmpst/v1/S_1/train.csv",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_midmorning_sept14/rlwmpst_new/static/rlwmpst/V6/S_1/test.csv",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/2017-09-18 -- Data for anne mtg/Recreate Analysis.ipynb",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/Untitled Folder/Calculate worker bonus.ipynb",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwm_temp_morning_sept14/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/templates/ad.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/config.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/convert_mat.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_new/static/js/jspsych/plugins/jspsych-rlwmpst.js",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/rlwmpst_amt/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/rlwmpst_amt/config.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/test data/trial_data.csv",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/EEG Cleaning/Sarah's EEG Labs/eeglab13_6_5b/1ST_README.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/rlwmpst_amt/_gitignore.txt",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/chatroom/templates/questionnaire.html",
+				"/C/Users/William/AppData/Local/Temp/Temp1_chatroom.zip/chatroom/experiment.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/jatos-3.1.7_win_java/study_assets_root/go-nogo-homemade/experiment.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/templates/complete.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/templates/default.html",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/custom.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/README.md",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/keep_assigning_hits.py",
+				"/C/Users/William/Documents/Berkeley Post-Bac/Anne Collins Lab/Amazon Mechanical Turk/RLWM AMT/rlwmpst_amt/config.txt",
+				"/C/Users/William/Downloads/jatos-3.1.7_win_java/jatos-3.1.7_win_java/README.md",
+				"/C/Users/William/Documents/K2 Data Science/gitignore-base/README.md",
+				"/C/Users/William/Documents/K2 Data Science/U8-EDA/Projects/MTA-Survey-Small/src/data/create_clean_data.py",
+				"/C/Users/William/Documents/CSGO/rar_dl.py",
+				"/C/Users/William/Documents/CSGO/demo-data/match730_003192214909240738157_0718885624_156.dem.json",
+				"/C/Users/William/Documents/match730_003192574833942593884_0235882743_153.dem.json",
+				"/C/Users/William/Documents/CSGO/dl_one_file.py",
+				"/C/Users/William/Documents/Pelican-Blog/pelican-blog/content/First-Post.ipynb",
+				"/C/Users/William/Documents/Pelican-Blog/pelican-blog/publishconf.py",
+				"/C/Users/William/Documents/Pelican-Blog/pelican-blog/pelicanconf.py"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"icon_fac",
+					"kill",
+					"small",
+					"{src}",
+					"'",
+					"directory",
+					"thank you",
+					"get_ready",
+					"\\"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\William\\Documents\\Berkeley Post-Bac\\Anne Collins Lab\\Amazon Mechanical Turk\\RLWM_PST\\rlwmpst_refactor_pre_psiturk"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/William/Documents/Berkeley_Post-Bac/Anne_Collins_Lab/Amazon Mechanical Turk/RLWM_PST/rlwmpst_refactor_pre_psiturk/experiment.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3693,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1430,
+										1430
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 30.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1366,58,202,1145",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"addDataToLastTrial"
+					]
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 300.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 57,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
